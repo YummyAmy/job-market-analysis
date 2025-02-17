@@ -2,9 +2,9 @@
 U.S. Job market analysis: Ranking cities by job growth, salaries, and employment trends
 
 #### **Overview**
-This project analyzes employment trends, salary distributions, and job market growth across major U.S. cities using real data from the Bureau of Labor Statistics (BLS). 
+This project analyzes employment trends, salary distributions, and job market growth across major U.S. cities using real data from the **Bureau of Labor Statistics (BLS)**. 
 
-It ranks cities based on a custom Job Market Index (JMI) score, normalizes salaries for cost-of-living adjustments, and visualizes insights through charts.
+It ranks cities based on a custom **Job Market Index (JMI)** score, normalizes salaries for cost-of-living adjustments, and visualizes insights through charts.
 
 #### Features
 - Real-world BLS Data - Extracted, cleaned, and analyzed without requiring an API key.
@@ -47,7 +47,7 @@ It ranks cities based on a custom Job Market Index (JMI) score, normalizes salar
 3.	Normalization & scoring: Used Min-Max scaling and weighted scores to compute the Job Market Index (JMI).
 4.	Cost-of-living: Adjusted salaries based on estimated city cost-of-living indexes.
 5.	Data visualization: Created detailed Seaborn & Matplotlib charts to present insights.
-6.	Data structuring: Organized files into data, notebooks, visualizations, and app directories for clear maintainability.
+6.	Data structuring: Organized files into **data**, **notebooks**, **visualizations**, and **app directories** for clear maintainability.
 
 #### Requirements
 To run the analysis, install the dependencies:
@@ -69,5 +69,6 @@ jupyter notebook notebooks/job_market_analysis.ipynb
 ```
 
 ### Conclusion
-This project provides valuable insights into the U.S. job market, demonstrating data analysis, visualization, and economic interpretation skills. 
-It also showcases expertise in real-world data analytics.
+This project provides valuable insights into the **U.S. job market**, demonstrating **data analysis**, **visualization**, and **economic interpretation** skills. 
+
+It also showcases expertise in **real-world data analytics**.
