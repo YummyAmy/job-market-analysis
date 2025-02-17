@@ -56,11 +56,17 @@ pip install -r requirements.txt
 #### Instructions
 
 1.	Clone the repository:
+```
 git clone https://github.com/yourusername/job-market-analysis.git
+```
 2.	Navigate to the project directory:
+```
 cd job-market-analysis
+```
 3.	Run the Jupyter notebook to analyze data:
+```
 jupyter notebook notebooks/job_market_analysis.ipynb
+```
 
 ### Conclusion
 This project provides valuable insights into the U.S. job market, demonstrating data analysis, visualization, and economic interpretation skills. 
